@@ -4,6 +4,10 @@
     max-width:1200px;
     margin-left: auto;
 }
+.qoute {
+  text-align: center;
+  font-weight: bold;
+}
 body {
   color:#443d3d;
   /* background-color: #e6e6e6; */
