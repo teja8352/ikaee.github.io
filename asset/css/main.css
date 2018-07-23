@@ -348,6 +348,32 @@ a {
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     background-color: #000;
   }
+  .contact-details p {
+    font-size: 20px;
+    line-height: 42px;
+      margin-bottom:10px;
+  }
+  .contact-section{
+    padding-left:0;
+    padding-right:0;
+
+  }
+  .side-section-text{
+    padding:0;
+  }
+  .big-padding {
+    padding-top:50px;
+  }
+  .team-section {
+    margin-bottom:0;
+  }
+  p {
+    text-align: center;
+  }
+  .heading_section {
+    margin-bottom: 0px;
+  }
+
 }
 @media screen and (max-width: 480px) {
   .logo {
