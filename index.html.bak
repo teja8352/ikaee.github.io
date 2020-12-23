@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>iKaeeSoft</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="We are a software company and a community of passionate, purpose-led individuals covering all aspects of end-to-end software delivery."/>
+  <link href="asset/images/logo.png" rel="icon">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="asset/css/main.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
+  <body>
+    <header id="header" class="reveal alt">
+      <nav class="navbar navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav navbar-right">
+              <li class=""><a href="#about">ABOUT</a></li>
+              <li><a href="#services">SERVICES</a></li>
+              <li><a href="#team">TEAM</a></li>
+              <li><a href="#contact">CONTACT</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <Section id="banner" class="banner">
+      <div class="banner-overlay"></div>
+      <div class="banner-content">
+        <img src="asset/images/logo.png" alt="ikaee-logo">
+        <h1>Ikaee</h1>
+        <h2>At इkaee creativitइ leads to इnnovation </h2>
+      </div>
+    </Section>
+    <Section role="main" class="main">
+        <div class="about_section bg_grey " id="about">
+            <div class="half_section_picture hidden-sm hidden-xs"></div>
+            <div class="container container-bg">
+              <div class="row">
+                <div class="col-md-6 col-md-offset-6">
+                  <div class="side-section-text">
+                    <h2 class="default-section-heading">About us</h3>
+                    <hr class="default_divider default_divider_blue " style="margin-left: 0;">
+                    <p>
+                      We are a software company and a community of passionate, purpose-led individuals covering all aspects of end-to-end software delivery. With a focus on building simple solutions, we’re changing the way organisations leverage technology. We firmly believe that every problem, when observed and understood in it’s entirety can be solved with technology in a simple and effective manner.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div><!--About us end  -->
+
+        <div id="services" class="services-section big-padding">
+          <div class="container">
+            <div class="heading_section">
+              <span class="sub-heading text-center">what we do</span>
+              <h2 class="default-section-heading text-center">Our Services</h2>
+            </div>
+            <div class="row slideanim">
+              <div class="col-sm-4">
+                <div class="expertices-block text-center">
+                  <h3 class="small_heading text-center h3_blue font_400">
+                    <span class="font_600 blue_color">01.</span>
+                     Product Design
+                   </h3>
+                   <p>When time-to-market, early feedback, reduced development risks and agility are critical to the success of your product and innovative ideas; Ikaee has the right aptitude, experience and mind-set to help you make your product idea a reality.</p>
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="expertices-block text-center">
+                  <h3 class="small_heading text-center h3_blue font_400">
+                    <span class="font_600 blue_color">02.</span>
+                     Technology Advisory
+                   </h3>
+                   <p>We help our customers make appropriate technology and process choices. We also help them define their technology roadmap for new business strategies, new product architectures in the evaluation of existing or new and innovative product ideas to assess the technical robustness of existing solutions.</p>
+                </div>
+              </div>
+              <div class="col-sm-4">
+                <div class="expertices-block text-center">
+                  <h3 class="small_heading text-center h3_blue font_400">
+                    <span class="font_600 blue_color">03.</span>
+                     Custom Development
+                   </h3>
+                   <p>Developing world class custom softwares that not only meet current needs but is also scalable and adaptive in a highly competitive landscape- is what we do. We pride ourselves in delivering simple solutions to complex business needs.</p>
+                </div>
+              </div>
+            </div>
+              <div class="heading_section">
+                  <a class="sub-heading text-center h3_blue font_400" href="asset/Ikaee-Services-and-Expertise.pdf" target="_blank">More on expertise ???</a>
+              </div>
+          </div>
+        </div>
+        <!-- end servies -->
+        <div id="team" class="team-section bg_grey">
+          <div class="container">
+            <div class="heading_section">
+              <span class="sub-heading text-center">Let's Meet</span>
+              <h2 class="default-section-heading text-center">Our Team</h2>
+              <h3 class="qoute"><i>" GREAT WORK DEPENDS ON GREAT PEOPLE "</i></h3>
+            </div>
+            <div class="row slideanim">
+              <div class="col-md-4">
+                <div class="team_detail">
+                  <div class="team_detail_inner">
+                    <img src="asset/images/rohin1.jpg" alt="rohin">
+                  </div>
+                  <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400"> Rohin Patel </h3>
+                  <p class="default_text text-center open_sans">Application Developer</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="team_detail">
+                  <div class="team_detail_inner">
+                    <img src="asset/images/kiran2.jpg" alt="kiran">
+                  </div>
+                  <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400"> KiranKumar BS </h3>
+                  <p class="default_text text-center open_sans">Application Developer</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+<div class="team_detail">
+                <div class="team_detail_inner">
+                  <img src="asset/images/arshad.jpg" alt="Arshad">
+                </div>
+                <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400"> Arshad Ali Sayed </h3>
+                <p class="default_text text-center open_sans">Application Developer</p>
+              </div>
+               <!-- <div class="team_detail">
+                  <div class="team_detail_inner">
+                    <img src="asset/images/abby.jpg" alt="abby">
+                  </div>
+                  <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400">Abhishek Korpe</h3>
+                  <p class="default_text text-center open_sans">Application Developer</p>
+                </div>
+              </div> -->
+          </div>
+          <!-- Team  -->
+          <div class="row slideanim">
+           <!-- <div class="col-md-4">
+              <div class="team_detail">
+                <div class="team_detail_inner">
+                  <img src="asset/images/arshad.jpg" alt="Arshad">
+                </div>
+                <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400"> Arshad Ali Sayed </h3>
+                <p class="default_text text-center open_sans">Application Developer</p>
+              </div>
+            </div>-->
+            <div class="col-md-4">
+              <div class="team_detail">
+                <div class="team_detail_inner">
+                  <img src="asset/images/ketan.jpg" alt="ketan">
+                </div>
+                <h3 class="small_heading_navy default_small_heading navy_blue text-center raleway font_400"> Ketan jain </h3>
+                <p class="default_text text-center open_sans">Application Developer</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="contact" class="contact-section">
+        <div class="heading_section">
+          <span class="sub-heading text-center">Contact Us</span>
+          <h2 class="default-section-heading text-center">Let's Get In Touch</h2>
+        </div>
+        <div class=" container ">
+          <div class="row  contact-details">
+            <div class="col-sm-12 col-md-4"><p><span class="glyphicon glyphicon-map-marker"></span> vasai, mumbai</p></div>
+            <div class="col-sm-12 col-md-4"><p><a href="tel:+917768858855"><span class="glyphicon glyphicon-phone"></span>+91 77688 58855</a></p></div>
+            <div class="col-sm-12 col-md-4"><p> <a href="mailto:rohinp@ikaeesoft.com"><span class="glyphicon glyphicon-envelope"></span> rohinp@ikaeesoft.com</a></p></div>
+          </div>
+          <!-- <div class="col-sm-7 slideanim"> -->
+            <!-- Add Google Maps -->
+            <!-- <div id="googleMap" style="height:400px;width:100%;"></div> -->
+            <!-- <script>
+              function myMap() {
+                var myCenter = new google.maps.LatLng(19.3919, 72.8397);
+                var mapProp = {center:myCenter, zoom:12, scrollwheel:false, draggable:false, mapTypeId:google.maps.MapTypeId.ROADMAP};
+                var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+                var marker = new google.maps.Marker({position:myCenter});
+                marker.setMap(map);
+              }
+            </script> -->
+            <!-- <form class="" action="" method="post">
+              <div class="row">
+                <div class="col-sm-6 form-group">
+                  <input class="form-control" id="name" name="name" placeholder="Name" type="text" required="">
+                </div>
+                <div class="col-sm-6 form-group">
+                  <input class="form-control" id="email" name="email" placeholder="Email" type="email" required="">
+                </div>
+              </div>
+              <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+              <div class="row">
+                <div class="col-sm-12 form-group">
+                  <button class="btn btn-default pull-right" type="submit">Send</button>
+                </div>
+              </div>
+            </form> -->
+          <!-- </div> -->
+        </div>
+      </div>
+    </Section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="footer_details">
+            <img src="asset/images/logo.png" alt="ikaee-logo">
+          <p class="text-center default_text open_sans white_color">© 2018 Ikaee,  All rights reserved. </p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="asset/js/main.js" charset="utf-8"></script>
+  </body>
+</html>
